@@ -5,11 +5,11 @@ Adaptive Simulated Annealing (ASA) is a C-language code developed to statistical
 
 See:
 
-http://www.ingber.com
+https://www.ingber.com
 
-http://alumni.caltech.edu/~ingber
+https://alumni.caltech.edu/~ingber
 
-http://sourceforge.net/projects/asa-caltech/
+https://sourceforge.net/projects/asa-caltech/
 
 https://code.google.com/p/adaptive-simulated-annealing/
 
