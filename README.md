@@ -7,7 +7,7 @@ See:
 
 https://www.ingber.com
 
-https://alumnus.caltech.edu/~ingber
+https://alumni.caltech.edu/~ingber
 
 https://sourceforge.net/projects/asa-caltech/
 
